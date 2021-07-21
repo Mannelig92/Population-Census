@@ -3,3 +3,9 @@ Thumbs.db
 .DS_Store
 *_old
 *_backup
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
