@@ -39,5 +39,4 @@ public class Main {
         System.out.println("Работоспособные люди с высшим образованием: " + result3);
 
     }
-
 }
